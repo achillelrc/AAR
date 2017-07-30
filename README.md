@@ -9,8 +9,15 @@ Avant de pouvoir l'utiliser ouvrez un terminal et tapez la commande **make** pou
 Basiquement le programme marche comme TAR pour la compression comme pour la décompression, voici comment l'utiliser:
 
 **Compression**
+
 ./archiver [Nom de l'archive] [fichier ou dossier] [autre fichier ou autre dossier] [...]
 
 Attention à ne pas tenter de compresser le dossier dans lequel vous vous trouvez sinon le logiciel va tenter de copier l'archive en la remplissant résultat boucleinf et le logiciel plante :)
 
 ![exemple du logiciel en fonctionnement](https://image.prntscr.com/image/us70p62JSXuP_tPmvryt_g.png)
+
+**Décompression**
+
+./unarchiver [Nom de l'archive]
+
+![exemple du logiciel en fonctionnement](https://image.prntscr.com/image/2_lfd2BfSQioId7_L8q6rQ.png)
