@@ -1,5 +1,6 @@
 # fuArchiver 
 Simple programme d'archivation de la même façon que ZIP, RAR, ou TAR.
+
 Attention il n'y a pas de compression des données ! (la taille de l'archive est égale à la somme de la taille des fichiers)
 
 # Utilisation
